@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.482,C:\Users\Gryzia\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Gryzia\Desktop\ProjektyEmbacadero\Kalkulator_sha_md\Kalkulator_szyfrujacy_md_sha.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.861,=C:\Users\Gryzia\Desktop\hashlibpp_0_3_4Biblioteka\hashlib2plus\trunk\src\hl_sha2ext.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.578,=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\msclr\marshal_cppstd.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.201,C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\msclr\marshal_cppstd.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,=C:\Users\Gryzia\Desktop\hashlibpp_0_3_4Biblioteka\hashlib2plus\trunk\src\hl_md5wrapper.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.068,=C:\Users\Gryzia\Desktop\hashlibpp_0_3_4Biblioteka\hashlib2plus\trunk\src\hl_sha256.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.660,C:\Users\Gryzia\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Gryzia\Documents\Embarcadero\Studio\Projects\Kalkulator_Szyfrujacy.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.653,=C:\Users\Gryzia\Desktop\hashlibpp_0_3_4Biblioteka\hashlib2plus\trunk\src\hl_sha384wrapper.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.981,C:\Users\Gryzia\Documents\Embarcadero\Studio\Projects\Kalkulator_Szyfrujacy.cbproj=C:\Users\Gryzia\Desktop\ProjektyEmbacadero\Kalkulator_sha_md\Kalkulator_Szyfrujacy.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.479,C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\vcclr.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.307,=C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\include\vcclr.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.482,C:\Users\Gryzia\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Gryzia\Desktop\ProjektyEmbacadero\Kalkulator_sha_md\Kalkulator_szyfrujacy_md_sha.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.905,=C:\Users\Gryzia\Desktop\hashlibpp_0_3_4Biblioteka\hashlib2plus\trunk\src\hl_sha256wrapper.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.649,=C:\Users\Gryzia\Desktop\hashlibpp_0_3_4Biblioteka\hashlib2plus\trunk\src\hl_md5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.611,=C:\Users\Gryzia\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,=C:\Users\Gryzia\Desktop\hashlibpp_0_3_4Biblioteka\hashlib2plus\trunk\src\hl_sha512wrapper.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.799,=C:\Users\Gryzia\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.482,C:\Users\Gryzia\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Gryzia\Desktop\ProjektyEmbacadero\Kalkulator_sha_md\Kalkulator_szyfrujacy_md_sha.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
